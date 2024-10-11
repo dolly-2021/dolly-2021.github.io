@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/dolly-2021.github.io/static/css/main.c4c30b06.css",
+    "main.js": "/dolly-2021.github.io/static/js/main.db011c5d.js",
+    "static/js/453.a6863b2a.chunk.js": "/dolly-2021.github.io/static/js/453.a6863b2a.chunk.js",
+    "static/media/mock10.png": "/dolly-2021.github.io/static/media/mock10.2d05b02ba569a430a255.png",
+    "static/media/mock09.png": "/dolly-2021.github.io/static/media/mock09.e18677ccfc932e52d754.png",
+    "static/media/bg-light.png": "/dolly-2021.github.io/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/dolly-2021.github.io/static/media/bg-dark.f420c6b8458af72de935.png",
+    "index.html": "/dolly-2021.github.io/index.html",
+    "main.c4c30b06.css.map": "/dolly-2021.github.io/static/css/main.c4c30b06.css.map",
+    "main.db011c5d.js.map": "/dolly-2021.github.io/static/js/main.db011c5d.js.map",
+    "453.a6863b2a.chunk.js.map": "/dolly-2021.github.io/static/js/453.a6863b2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4c30b06.css",
+    "static/js/main.db011c5d.js"
+  ]
+}
